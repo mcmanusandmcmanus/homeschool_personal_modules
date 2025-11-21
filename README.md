@@ -1,3 +1,12 @@
+# Homeschool Missions Control
+
+Quick notes for this app version:
+- Copy `.env.example` to `.env` and drop in your Firebase keys before deploying.
+- `npm install` then `npm test` for a quick smoke check; `npm start` to run locally.
+- Firebase config is optional; without it the app saves progress locally in the browser.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
